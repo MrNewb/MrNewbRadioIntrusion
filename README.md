@@ -8,6 +8,7 @@ This resource is compatible with the following frameworks and inventory systems:
 
 - **Frameworks**:
   - QB Framework
+  - QBX Framework
   - ESX Framework
 
 - **Inventory Systems**:
