@@ -10,6 +10,13 @@ local function removalEvent(src)
     end
 end
 
+RegisterNetEvent("MrNewbRadioIntrusion:server:doLogging", function(data)
+    local src = source
+    local channel = data.inputted1
+    local mlog = "Player Has joined radio freq # "..channel
+    logs(src, mlog)
+end)
+
 RegisterNetEvent("MrNewbRadioIntrusion:server:doCheckForRadio", function(data)
     local src = source
     local canProceed = CheckForRadio(src)
