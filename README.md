@@ -26,3 +26,21 @@ To install MrNewbRadioIntrusion, follow these steps:
 2. Extract the downloaded ZIP file.
 3. Place the extracted folder into the `resources` directory of your FiveM server.
 4. Add `ensure MrNewbRadioIntrusion` to your server configuration file (`server.cfg`).
+
+## Item Configuration for ox_inventory
+```lua
+
+	["zipper9"] = {
+		label = "Zipper 9",
+		weight = 200,
+		stack = false,
+		close = true,
+	},
+
+```
+## Item Configuration for qb-core
+```lua
+
+	['zipper9'] 			= {['name'] = 'zipper9', 			    ['label'] = 'Zipper 9', 		    		 ['weight'] = 100, 		['type'] = 'item', 		['image'] = 'zipper9.png',								['unique'] = true, 	['useable'] = true, 		['shouldClose'] = true,	   ['combinable'] = nil,                     ['description'] = 'Zipper 9'},
+
+```
