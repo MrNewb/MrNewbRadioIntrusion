@@ -39,7 +39,7 @@ function DoMiniGame()
 				if Config.Debug then print(Config.MiniGame," status is success") end
 				value = true
 			else
-				if Config.Debug then print(Config.MiniGame," status is fail") end end
+				if Config.Debug then print(Config.MiniGame," status is fail") end
 				value = false
 			end
 		 end, 10, 5, 3) -- Time, Gridsize (5, 6, 7, 8, 9, 10), IncorrectBlocks
