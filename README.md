@@ -22,7 +22,7 @@ This resource is compatible with the following frameworks and inventory systems:
 
 To install MrNewbRadioIntrusion, follow these steps:
 
-1. Download the resource from the [GitHub repository](https://github.com/MrNewb/MrNewbRadioIntrusion/releases).
+1. Download the resource.
 2. Extract the downloaded ZIP file.
 3. Place the extracted folder into the `resources` directory of your FiveM server.
 4. Add `ensure MrNewbRadioIntrusion` to your server configuration file (`server.cfg`).
