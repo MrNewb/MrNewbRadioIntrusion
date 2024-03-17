@@ -10,6 +10,7 @@ local function joinStationId(data)
 		exports.saltychat:SetRadioChannel(tonumber(channel), true)
 	end
 	NotifyPlayer("Encryption has been broken and you are connected to radio channel "..channel.." ", "success")
+	if Config.Logs then TriggerServerEvent("MrNewbRadioIntrusion:server:doLogging", data) end
 end
 
 local function DoDispatchAlert()
