@@ -1,5 +1,7 @@
 # MrNewbRadioIntrusion Resource
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R76BIM9)
+
 MrNewbRadioIntrusion is a resource designed to enhance the radio communication experience within your FiveM server. It offers seamless integration with various frameworks and inventory systems, providing an immersive and dynamic radio communication environment for your players.
 
 ## Compatibility
