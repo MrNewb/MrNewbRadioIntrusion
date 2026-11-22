@@ -1,49 +1,18 @@
-# MrNewbRadioIntrusion Resource
+# MrNewbRadioIntrusion
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R76BIM9)
 
-MrNewbRadioIntrusion is a resource designed to enhance the radio communication experience within your FiveM server. It offers seamless integration with various frameworks and inventory systems, providing an immersive and dynamic radio communication environment for your players.
+Crack an encrypted radio channel. Use the device, enter a frequency, beat a minigame and you are on the channel. Fail and dispatch hears about it.
 
-## Compatibility
+[Documentation](https://mrnewb.github.io/docs/mrnewbradiointrusion) · [Install guide](https://mrnewb.github.io/docs/mrnewbradiointrusion/install) · [Discord](https://discord.gg/mrnewbscripts)
 
-This resource is compatible with the following frameworks and inventory systems:
+Documentation is available at https://mrnewb.github.io/docs/
 
-- **Frameworks**:
-  - QB Framework
-  - QBX Framework
-  - ESX Framework
+## Features
 
-- **Inventory Systems**:
-  - qb-inventory
-  - ox_inventory
-
-- **Voice Chat Plugins**:
-  - pma-voice
-  - Salty Chat
-
-## Installation
-
-To install MrNewbRadioIntrusion, follow these steps:
-
-1. Download the resource.
-2. Extract the downloaded ZIP file.
-3. Place the extracted folder into the `resources` directory of your FiveM server.
-4. Add `ensure MrNewbRadioIntrusion` to your server configuration file (`server.cfg`).
-
-## Item Configuration for ox_inventory
-```lua
-
-	["zipper9"] = {
-		label = "Zipper 9",
-		weight = 200,
-		stack = false,
-		close = true,
-	},
-
-```
-## Item Configuration for qb-core
-```lua
-
-	['zipper9'] 			= {['name'] = 'zipper9', 			    ['label'] = 'Zipper 9', 		    		 ['weight'] = 100, 		['type'] = 'item', 		['image'] = 'zipper9.png',								['unique'] = true, 	['useable'] = true, 		['shouldClose'] = true,	   ['combinable'] = nil,                     ['description'] = 'Zipper 9'},
-
-```
+- Usable device item that needs a radio in the inventory
+- Frequency prompt, then a minigame (ox_lib skill check, ps-ui or SN-Hacking)
+- The device can break after use
+- A failed crack sends a dispatch alert to the configured jobs
+- Voice: pma-voice or saltychat
+- Runs on Newb_Bridge, so framework, inventory, notifications, input and dispatch follow what your server runs

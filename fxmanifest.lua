@@ -1,22 +1,39 @@
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-use_fxv2_oal 'yes'
-name "MrNewbRadioIntrusion"
-author "MrNewb"
-version "1.0.1"
+
+name 'MrNewbRadioIntrusion'
+author 'MrNewb'
+description 'Crack an encrypted radio channel with a device, a minigame and a dispatch risk'
+version '1.1.0'
+
 shared_scripts {
-	'@ox_lib/init.lua', --- comment this out if you dont for some reason use it?
-	'config.lua'
+    '@ox_lib/init.lua',
+    '@Newb_Bridge/import.lua',
+    'resource/open/shared/config.lua',
+    'resource/modules/core/shared/locale.lua',
 }
 
 client_scripts {
-	'bridge/**/client.lua',
-	'client/*.lua',
+    'resource/modules/radio/client/minigame.lua',
+    'resource/modules/radio/client/radio.lua',
 }
 
 server_scripts {
-	'@oxmysql/lib/MySQL.lua',
-	'bridge/**/server.lua',
-	'server/*.lua',
+    'resource/modules/radio/server/radio.lua',
+}
+
+files {
+    'locales/*.json',
+}
+
+dependencies {
+    '/server:6116',
+    '/onesync',
+    'ox_lib',
+    'Newb_Bridge',
+}
+
+escrow_ignore {
+    '**/*',
 }

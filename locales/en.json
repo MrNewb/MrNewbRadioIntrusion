@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "Radio Frequency",
+    "InputLabel": "Frequency",
+    "InputDescription": "Enter the frequency to break into.",
+    "NeedRadio": "You need a radio to use this.",
+    "NoFrequency": "You did not enter a frequency.",
+    "DeviceBroke": "The device seems to have broken.",
+    "DeviceSaved": "You managed to save the device.",
+    "Cracked": "Encryption broken. You are connected to radio channel %s.",
+    "CrackFailed": "The encryption crack failed.",
+    "DispatchTitle": "Strange Frequency Noise",
+    "DispatchDescription": "Possible pirate radio in the area",
+    "DispatchBlip": "Pirate Radio",
+    "LogJoined": "Joined radio frequency %s"
+  }
+}
