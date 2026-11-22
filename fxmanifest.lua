@@ -5,7 +5,7 @@ lua54 'yes'
 name 'MrNewbRadioIntrusion'
 author 'MrNewb'
 description 'Crack an encrypted radio channel with a device, a minigame and a dispatch risk'
-version '1.1.1'
+version '1.1.2'
 
 shared_scripts {
     '@ox_lib/init.lua',
