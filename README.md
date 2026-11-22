@@ -1,10 +1,14 @@
 # MrNewbRadioIntrusion
 
+![MrNewbRadioIntrusion](.github/assets/banner.webp)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R76BIM9)
 
 Crack an encrypted radio channel. Use the device, enter a frequency, beat a minigame and you are on the channel. Fail and dispatch hears about it.
 
-[Documentation](https://mrnewb.github.io/docs/mrnewbradiointrusion) · [Install guide](https://mrnewb.github.io/docs/mrnewbradiointrusion/install) · [Discord](https://discord.gg/mrnewbscripts)
+[Documentation](https://mrnewb.github.io/docs/mrnewbradiointrusion) · [Install guide](https://mrnewb.github.io/docs/mrnewbradiointrusion/install) · [Discord](https://discord.gg/mrnewbscripts) · [Short](https://www.youtube.com/shorts/1eOhGaC54wc)
+
+<a href="https://www.youtube.com/shorts/1eOhGaC54wc"><img src=".github/assets/short.webp" alt="MrNewbRadioIntrusion on YouTube Shorts" width="200"></a>
 
 Documentation is available at https://mrnewb.github.io/docs/
 
