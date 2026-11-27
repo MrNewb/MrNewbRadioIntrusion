@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "無線周波数",
+    "InputLabel": "周波数",
+    "InputDescription": "侵入する周波数を入力してね.",
+    "NeedRadio": "使うには無線機が必要だよ.",
+    "NoFrequency": "周波数が入力されていないよ.",
+    "DeviceBroke": "装置が壊れたみたい.",
+    "DeviceSaved": "装置を守れたよ.",
+    "Cracked": "暗号を解読したよ. 無線チャンネル%sに接続したよ.",
+    "CrackFailed": "暗号の解読に失敗したよ.",
+    "DispatchTitle": "不審な無線ノイズ",
+    "DispatchDescription": "付近で違法無線の疑い",
+    "DispatchBlip": "違法無線",
+    "LogJoined": "無線周波数%sに参加"
+  }
+}

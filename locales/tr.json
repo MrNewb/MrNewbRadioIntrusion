@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "Telsiz Frekansı",
+    "InputLabel": "Frekans",
+    "InputDescription": "Sızmak istediğin frekansı gir.",
+    "NeedRadio": "Bunu kullanmak için telsize ihtiyacın var.",
+    "NoFrequency": "Frekans girmedin.",
+    "DeviceBroke": "Cihaz bozulmuş gibi görünüyor.",
+    "DeviceSaved": "Cihazı kurtarmayı başardın.",
+    "Cracked": "Şifre kırıldı. %s telsiz kanalına bağlandın.",
+    "CrackFailed": "Şifre kırılamadı.",
+    "DispatchTitle": "Frekansında Garip Parazit",
+    "DispatchDescription": "Bölgede olası korsan telsiz yayını",
+    "DispatchBlip": "Korsan Telsiz",
+    "LogJoined": "%s telsiz frekansına katıldın"
+  }
+}

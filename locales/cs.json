@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "Rádiová frekvence",
+    "InputLabel": "Frekvence",
+    "InputDescription": "Zadej frekvenci, do které chceš proniknout.",
+    "NeedRadio": "K použití potřebuješ vysílačku.",
+    "NoFrequency": "Chybí zadaná frekvence.",
+    "DeviceBroke": "Zařízení je zřejmě rozbité.",
+    "DeviceSaved": "Podařilo se ti zachránit zařízení.",
+    "Cracked": "Šifrování prolomeno. Jsi na rádiovém kanálu %s.",
+    "CrackFailed": "Prolomení šifrování se nezdařilo.",
+    "DispatchTitle": "Podivný šum na frekvenci",
+    "DispatchDescription": "Možné pirátské vysílání v okolí",
+    "DispatchBlip": "Pirátské rádio",
+    "LogJoined": "Připojení k rádiové frekvenci %s"
+  }
+}

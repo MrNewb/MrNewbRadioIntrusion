@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "Radiofrekvens",
+    "InputLabel": "Frekvens",
+    "InputDescription": "Ange frekvensen du vill bryta dig in på.",
+    "NeedRadio": "Du behöver en radio för att använda detta.",
+    "NoFrequency": "Du angav ingen frekvens.",
+    "DeviceBroke": "Enheten verkar ha gått sönder.",
+    "DeviceSaved": "Du lyckades rädda enheten.",
+    "Cracked": "Krypteringen är knäckt. Du är ansluten till radiokanal %s.",
+    "CrackFailed": "Det gick inte att knäcka krypteringen.",
+    "DispatchTitle": "Konstiga radiostörningar",
+    "DispatchDescription": "Misstänkt piratradio i området",
+    "DispatchBlip": "Piratradio",
+    "LogJoined": "Ansluten till radiofrekvens %s"
+  }
+}

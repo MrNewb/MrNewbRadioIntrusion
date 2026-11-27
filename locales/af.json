@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "Radiofrekwensie",
+    "InputLabel": "Frekwensie",
+    "InputDescription": "Voer die frekwensie in waarop jy wil inbreek.",
+    "NeedRadio": "Jy het 'n radio nodig om dit te gebruik.",
+    "NoFrequency": "Jy het nie 'n frekwensie ingevoer nie.",
+    "DeviceBroke": "Die toestel lyk stukkend.",
+    "DeviceSaved": "Jy het die toestel gered.",
+    "Cracked": "Enkripsie gekraak. Jy is aan radiokanaal %s gekoppel.",
+    "CrackFailed": "Die enkripsie kon nie gekraak word nie.",
+    "DispatchTitle": "Vreemde frekwensiegeraas",
+    "DispatchDescription": "Moontlike seerowerradio in die omgewing",
+    "DispatchBlip": "Seerowerradio",
+    "LogJoined": "By radiofrekwensie %s aangesluit"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "Frequência de rádio",
+    "InputLabel": "Frequência",
+    "InputDescription": "Digite a frequência para invadir.",
+    "NeedRadio": "Você precisa de um rádio para usar isto.",
+    "NoFrequency": "Você não digitou uma frequência.",
+    "DeviceBroke": "O dispositivo parece ter quebrado.",
+    "DeviceSaved": "Você conseguiu salvar o dispositivo.",
+    "Cracked": "Criptografia quebrada. Você está no canal de rádio %s.",
+    "CrackFailed": "Falha ao quebrar a criptografia.",
+    "DispatchTitle": "Ruído estranho na frequência",
+    "DispatchDescription": "Possível rádio pirata na área",
+    "DispatchBlip": "Rádio pirata",
+    "LogJoined": "Entrou na frequência de rádio %s"
+  }
+}

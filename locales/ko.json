@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "무전 주파수",
+    "InputLabel": "주파수",
+    "InputDescription": "침입할 주파수를 입력하세요.",
+    "NeedRadio": "사용하려면 무전기가 필요해요.",
+    "NoFrequency": "주파수를 입력하지 않았어요.",
+    "DeviceBroke": "장치가 고장 난 것 같아요.",
+    "DeviceSaved": "장치를 무사히 지켜냈어요.",
+    "Cracked": "암호를 해독했어요. 무전 채널 %s에 연결됐어요.",
+    "CrackFailed": "암호 해독에 실패했어요.",
+    "DispatchTitle": "이상한 주파수 잡음",
+    "DispatchDescription": "인근 지역 불법 무전 의심",
+    "DispatchBlip": "불법 무전",
+    "LogJoined": "무전 주파수 %s에 접속했어요"
+  }
+}

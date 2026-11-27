@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "对讲机频率",
+    "InputLabel": "频率",
+    "InputDescription": "输入你要入侵的频率.",
+    "NeedRadio": "你需要对讲机才能使用此功能.",
+    "NoFrequency": "你没有输入频率.",
+    "DeviceBroke": "设备好像坏了.",
+    "DeviceSaved": "你成功保住了设备.",
+    "Cracked": "加密已破解. 你已接入对讲机频道 %s.",
+    "CrackFailed": "加密破解失败.",
+    "DispatchTitle": "异常频率噪声",
+    "DispatchDescription": "附近可能有非法电台",
+    "DispatchBlip": "非法电台",
+    "LogJoined": "已接入对讲机频率 %s"
+  }
+}

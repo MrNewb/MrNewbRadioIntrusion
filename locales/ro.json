@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "Frecvență radio",
+    "InputLabel": "Frecvență",
+    "InputDescription": "Introdu frecvența pe care vrei să o interceptezi.",
+    "NeedRadio": "Ai nevoie de o stație radio pentru asta.",
+    "NoFrequency": "Nu ai introdus o frecvență.",
+    "DeviceBroke": "Dispozitivul pare să se fi stricat.",
+    "DeviceSaved": "Ai reușit să salvezi dispozitivul.",
+    "Cracked": "Criptare spartă. Ești conectat la canalul radio %s.",
+    "CrackFailed": "Spargerea criptării a eșuat.",
+    "DispatchTitle": "Zgomot ciudat pe frecvență",
+    "DispatchDescription": "Posibilă transmisie radio pirat în zonă",
+    "DispatchBlip": "Radio pirat",
+    "LogJoined": "Te-ai conectat la frecvența radio %s"
+  }
+}

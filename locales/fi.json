@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "Radiotaajuus",
+    "InputLabel": "Taajuus",
+    "InputDescription": "Syötä taajuus, jolle haluat murtautua.",
+    "NeedRadio": "Tarvitset radion käyttääksesi tätä.",
+    "NoFrequency": "Et syöttänyt taajuutta.",
+    "DeviceBroke": "Laite näyttää hajonneen.",
+    "DeviceSaved": "Onnistuit pelastamaan laitteen.",
+    "Cracked": "Salaus murrettu. Olet radiokanavalla %s.",
+    "CrackFailed": "Salauksen murtaminen epäonnistui.",
+    "DispatchTitle": "Outoa kohinaa taajuudella",
+    "DispatchDescription": "Alueella mahdollisesti piraattiradio",
+    "DispatchBlip": "Piraattiradio",
+    "LogJoined": "Liityit radiotaajuudelle %s"
+  }
+}

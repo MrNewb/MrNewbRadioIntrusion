@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "Radijska frekvencija",
+    "InputLabel": "Frekvencija",
+    "InputDescription": "Unesi frekvenciju na koju želiš upasti.",
+    "NeedRadio": "Za ovo ti treba radiouređaj.",
+    "NoFrequency": "Nisi unio frekvenciju.",
+    "DeviceBroke": "Čini se da se uređaj pokvario.",
+    "DeviceSaved": "Uspio si spasiti uređaj.",
+    "Cracked": "Šifra je probijena. Spojen si na radijski kanal %s.",
+    "CrackFailed": "Probijanje šifre nije uspjelo.",
+    "DispatchTitle": "Čudan šum na frekvenciji",
+    "DispatchDescription": "Mogući piratski radio u blizini",
+    "DispatchBlip": "Piratski radio",
+    "LogJoined": "Spojen na radijsku frekvenciju %s"
+  }
+}

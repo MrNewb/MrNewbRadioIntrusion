@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "Radijo dažnis",
+    "InputLabel": "Dažnis",
+    "InputDescription": "Įvesk dažnį, į kurį nori įsilaužti.",
+    "NeedRadio": "Tam tau reikia racijos.",
+    "NoFrequency": "Neįvedei dažnio.",
+    "DeviceBroke": "Atrodo, prietaisas sugedo.",
+    "DeviceSaved": "Tau pavyko išsaugoti prietaisą.",
+    "Cracked": "Šifravimas įveiktas. Prisijungei prie radijo kanalo %s.",
+    "CrackFailed": "Nepavyko įveikti šifravimo.",
+    "DispatchTitle": "Keisti radijo trukdžiai",
+    "DispatchDescription": "Apylinkėje galimai veikia piratinis radijas",
+    "DispatchBlip": "Piratinis radijas",
+    "LogJoined": "Prisijungei prie radijo dažnio %s"
+  }
+}

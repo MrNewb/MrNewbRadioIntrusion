@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "Frecuencia de radio",
+    "InputLabel": "Frecuencia",
+    "InputDescription": "Introduce la frecuencia que quieres interceptar.",
+    "NeedRadio": "Necesitas una radio para usar esto.",
+    "NoFrequency": "No has introducido ninguna frecuencia.",
+    "DeviceBroke": "Parece que el dispositivo se ha roto.",
+    "DeviceSaved": "Has logrado salvar el dispositivo.",
+    "Cracked": "Cifrado descifrado. Te has conectado al canal de radio %s.",
+    "CrackFailed": "No has logrado descifrar el cifrado.",
+    "DispatchTitle": "Ruido extraño en la frecuencia",
+    "DispatchDescription": "Posible radio pirata en la zona",
+    "DispatchBlip": "Radio pirata",
+    "LogJoined": "Te has conectado a la frecuencia de radio %s"
+  }
+}

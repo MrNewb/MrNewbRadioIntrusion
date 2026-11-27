@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "Częstotliwość radiowa",
+    "InputLabel": "Częstotliwość",
+    "InputDescription": "Podaj częstotliwość, na którą chcesz się włamać.",
+    "NeedRadio": "Potrzebujesz do tego radia.",
+    "NoFrequency": "Nie podano częstotliwości.",
+    "DeviceBroke": "Urządzenie chyba się zepsuło.",
+    "DeviceSaved": "Udało ci się ocalić urządzenie.",
+    "Cracked": "Szyfrowanie złamane. Masz połączenie z kanałem radiowym %s.",
+    "CrackFailed": "Nie udało się złamać szyfrowania.",
+    "DispatchTitle": "Dziwne zakłócenia radiowe",
+    "DispatchDescription": "Możliwe pirackie radio w okolicy",
+    "DispatchBlip": "Pirackie radio",
+    "LogJoined": "Dołączono do częstotliwości radiowej %s"
+  }
+}

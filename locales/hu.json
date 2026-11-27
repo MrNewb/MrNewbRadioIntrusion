@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "Rádiófrekvencia",
+    "InputLabel": "Frekvencia",
+    "InputDescription": "Add meg a feltörni kívánt frekvenciát.",
+    "NeedRadio": "Ehhez rádióra van szükséged.",
+    "NoFrequency": "Nem adtál meg frekvenciát.",
+    "DeviceBroke": "Úgy tűnik, az eszköz elromlott.",
+    "DeviceSaved": "Sikerült megmentened az eszközt.",
+    "Cracked": "Titkosítás feltörve. Csatlakoztál a(z) %s rádiócsatornához.",
+    "CrackFailed": "Nem sikerült feltörnöd a titkosítást.",
+    "DispatchTitle": "Furcsa frekvenciazaj",
+    "DispatchDescription": "Lehetséges kalózrádió a környéken",
+    "DispatchBlip": "Kalózrádió",
+    "LogJoined": "Csatlakoztál a(z) %s rádiófrekvenciához"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "Radio Frequency",
+    "InputLabel": "Frequency",
+    "InputDescription": "Enter a frequency to raid, matey.",
+    "NeedRadio": "Ye need a radio for this.",
+    "NoFrequency": "Ye entered no frequency.",
+    "DeviceBroke": "Yer device seems busted, matey.",
+    "DeviceSaved": "Ye saved yer device, matey.",
+    "Cracked": "Cipher cracked. Ye be aboard radio channel %s.",
+    "CrackFailed": "Ye failed to crack the code.",
+    "DispatchTitle": "Odd Frequency Racket",
+    "DispatchDescription": "Pirate radio may be nearby, arr",
+    "DispatchBlip": "Pirate Radio",
+    "LogJoined": "Ye joined frequency %s"
+  }
+}

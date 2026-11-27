@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "Funkfrequenz",
+    "InputLabel": "Frequenz",
+    "InputDescription": "Gib die Frequenz ein, die du knacken willst.",
+    "NeedRadio": "Du brauchst dafür ein Funkgerät.",
+    "NoFrequency": "Du hast keine Frequenz eingegeben.",
+    "DeviceBroke": "Das Gerät scheint kaputt zu sein.",
+    "DeviceSaved": "Du konntest das Gerät retten.",
+    "Cracked": "Verschlüsselung geknackt. Du bist mit Funkkanal %s verbunden.",
+    "CrackFailed": "Die Verschlüsselung konnte nicht geknackt werden.",
+    "DispatchTitle": "Seltsame Funkgeräusche",
+    "DispatchDescription": "Möglicher Piratensender in der Gegend",
+    "DispatchBlip": "Piratensender",
+    "LogJoined": "Funkfrequenz %s beigetreten"
+  }
+}

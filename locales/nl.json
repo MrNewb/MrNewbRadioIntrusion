@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "Radiofrequentie",
+    "InputLabel": "Frequentie",
+    "InputDescription": "Voer de frequentie in waarop je wilt inbreken.",
+    "NeedRadio": "Je hebt een portofoon nodig om dit te gebruiken.",
+    "NoFrequency": "Je hebt geen frequentie ingevoerd.",
+    "DeviceBroke": "Het apparaat lijkt kapot te zijn.",
+    "DeviceSaved": "Je hebt het apparaat weten te redden.",
+    "Cracked": "Versleuteling gekraakt. Je bent verbonden met radiokanaal %s.",
+    "CrackFailed": "Het kraken van de versleuteling is mislukt.",
+    "DispatchTitle": "Vreemde radioruis",
+    "DispatchDescription": "Mogelijke piratenzender in de buurt",
+    "DispatchBlip": "Piratenzender",
+    "LogJoined": "Verbonden met radiofrequentie %s"
+  }
+}

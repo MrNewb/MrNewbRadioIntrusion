@@ -1,0 +1,17 @@
+{
+  "Radio": {
+    "InputTitle": "無線電頻率",
+    "InputLabel": "頻率",
+    "InputDescription": "輸入你要入侵的頻率。",
+    "NeedRadio": "你需要有無線電才能使用。",
+    "NoFrequency": "你未有輸入頻率。",
+    "DeviceBroke": "裝置似乎壞了。",
+    "DeviceSaved": "你成功保住了裝置。",
+    "Cracked": "加密已破解。你已連接至無線電頻道 %s。",
+    "CrackFailed": "破解加密失敗。",
+    "DispatchTitle": "異常頻率雜音",
+    "DispatchDescription": "區內可能有非法電台",
+    "DispatchBlip": "非法電台",
+    "LogJoined": "已加入無線電頻率 %s"
+  }
+}
